@@ -1,5 +1,16 @@
 function indexOfIgnoreCase(s1, s2) {
-  // write your code here
+     let ans=0;
+ 
+
+    for(let i=0;i<s1.length;i++){
+      
+        if(s1.charAt(i)==s3.charAt(0)){
+        break;
+        }
+        ans++;
+      }
+
+   return ans;
 }
 
 // Please do not change the code below
